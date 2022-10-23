@@ -1,0 +1,3901 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrefabConfig>
+	<PrefabTags>
+		<Tag>
+			<Name>walls</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>prefabs</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>building_components</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>doors</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>roof</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>tower_b</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>tower_c</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>windows</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>decals</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>nature</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>props</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>furniture</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>weapons</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>Houses</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>Prefabs</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>Bathroom</Name>
+			<Active>True</Active>
+		</Tag>
+		<Tag>
+			<Name>Modified Prefabs</Name>
+			<Active>True</Active>
+		</Tag>
+	</PrefabTags>
+	<PrefabCategories>
+		<Category>
+			<Name>Default</Name>
+		</Category>
+		<Category>
+			<Name>building_components</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>building_components</Name4>
+			</FolderNames>
+			<Prefab>
+				<Name>arch_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/arch_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>building_tower_top</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/building_tower_top.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>ceiling_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/ceiling_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>column</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/column.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>column_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/column_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>column_half</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/column_half.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>column_quarter</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/column_quarter.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>floor_5x5_03_up</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/floor_5x5_03_up.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>floor_wood_planks_10x10</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/floor_wood_planks_10x10.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>floor_wood_planks_10x10_half_horizo</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/floor_wood_planks_10x10_half_horizo.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>floor_wood_planks_10x10_half_vert</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/floor_wood_planks_10x10_half_vert.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>floor_wood_planks_10x10_quarter</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/floor_wood_planks_10x10_quarter.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>gate_a_inside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/gate_a_inside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>gate_a_outside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/gate_a_outside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>gate_a_tunnel_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/gate_a_tunnel_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>gate_a_tunnel_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/gate_a_tunnel_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stairs_stone</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/stairs_stone.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stairs_wood</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/stairs_wood.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stoneBorderCorner</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/stoneBorderCorner.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stone_step_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/stone_step_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stone_step_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/stone_step_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>support_beams_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/support_beams_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>support_beams_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/support_beams_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_5x5_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/wall_5x5_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_5x5_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/wall_5x5_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_5x5_base</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/wall_5x5_base.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_5x5_base_corner</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/wall_5x5_base_corner.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_5x5_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/wall_5x5_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_5x5_corner</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/wall_5x5_corner.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_support</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/wall_support.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wood_part_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/wood_part_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>building_components</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>doors</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>building_components</Name4>
+				<Name5>doors</Name5>
+			</FolderNames>
+			<Prefab>
+				<Name>door_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_a_frame</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_a_frame.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_a_variant</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_a_variant.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_b_dirty</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_b_dirty.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_b_frame</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_b_frame.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_b_frame_combined</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_b_frame_combined.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_e_frame</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_e_frame.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_e_iron</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_e_iron.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>door_e_wood</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/doors/door_e_wood.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>doors</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>roof</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>building_components</Name4>
+				<Name5>roof</Name5>
+			</FolderNames>
+			<Prefab>
+				<Name>roof_deco_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_e</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_e.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_f</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_f.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_g</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_g.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_h</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_h.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_i</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_i.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_j</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_j.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_k</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_k.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_l</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_l.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_deco_n</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_deco_n.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_inside_large</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_inside_large.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_inside_large_beam</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_inside_large_beam.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_inside_large_end</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_inside_large_end.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_inside_medium</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_inside_medium.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_inside_medium_beam</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_inside_medium_beam.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_inside_medium_end</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_inside_medium_end.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_inside_small</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_inside_small.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_inside_small_beam</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_inside_small_beam.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_inside_small_end</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_inside_small_end.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_outside_large</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_outside_large.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_outside_large_end</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_outside_large_end.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_outside_medium</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_outside_medium.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_outside_medium_end</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_outside_medium_end.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_outside_small</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_outside_small.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_outside_small_end</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_outside_small_end.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_small_frame</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_small_frame.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_stepgable_large</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_stepgable_large.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_stepgable_medium</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_stepgable_medium.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>roof_stepgable_small</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/roof/roof_stepgable_small.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>roof</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>tower_b</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>building_components</Name4>
+				<Name5>tower_b</Name5>
+			</FolderNames>
+			<Prefab>
+				<Name>tower_b_crown</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_crown.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_crown_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_crown_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_deco_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_deco_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_deco_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_deco_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_deco_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_deco_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_floor_full</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_floor_full.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_floor_half</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_floor_half.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_floor_quarter</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_floor_quarter.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_segment_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_segment_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_segment_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_segment_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_segment_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_segment_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_segment_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_segment_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_segment_e</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_segment_e.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_b_stairs</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_b/tower_b_stairs.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_b</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>tower_c</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>building_components</Name4>
+				<Name5>tower_c</Name5>
+			</FolderNames>
+			<Prefab>
+				<Name>tower_c_floor</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_floor.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_floor_half</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_floor_half.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_segment_a_inside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_segment_a_inside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_segment_a_outside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_segment_a_outside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_segment_b_inside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_segment_b_inside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_segment_b_outside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_segment_b_outside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_segment_c_outside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_segment_c_outside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_segment_d_outside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_segment_d_outside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_segment_e_outside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_segment_e_outside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_segment_f</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_segment_f.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_stairs</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_stairs.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_top_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_top_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_top_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/tower_c/tower_c_top_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>tower_c</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>windows</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>building_components</Name4>
+				<Name5>windows</Name5>
+			</FolderNames>
+			<Prefab>
+				<Name>window_a_inside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_a_inside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_a_outside</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_a_outside.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_b_inside_variant_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_b_inside_variant_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_b_inside_variant_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_b_inside_variant_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_b_inside_variant_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_b_inside_variant_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_b_outside_variant_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_b_outside_variant_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_b_outside_variant_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_b_outside_variant_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_b_outside_variant_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_b_outside_variant_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_c_inside_variant_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_c_inside_variant_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_c_inside_variant_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_c_inside_variant_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_c_inside_variant_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_c_inside_variant_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_c_outside_variant_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_c_outside_variant_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_c_outside_variant_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_c_outside_variant_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_c_outside_variant_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_c_outside_variant_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_d_inside_variant_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_d_inside_variant_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_d_inside_variant_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_d_inside_variant_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_d_inside_variant_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_d_inside_variant_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_d_outside_variant_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_d_outside_variant_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_d_outside_variant_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_d_outside_variant_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>window_d_outside_variant_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/building_components/windows/window_d_outside_variant_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>windows</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>decals</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>decals</Name4>
+			</FolderNames>
+			<Prefab>
+				<Name>decal_corner_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_corner_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_corner_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_corner_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_crack_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_crack_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_crack_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_crack_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_crack_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_crack_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_dirt_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_dirt_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_dirt_a1</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_dirt_a1.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_dirt_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_dirt_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_dirt_b1</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_dirt_b1.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_leaking_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_leaking_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_one_side</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_one_side.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_wall_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_wall_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_wall_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_wall_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_wall_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_wall_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>decal_wall_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/decal_wall_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_hull</Name>
+				<Path>Assets/External Assets/castle/prefabs/decals/tower_c_hull.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>decals</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>nature</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>nature</Name4>
+			</FolderNames>
+			<Prefab>
+				<Name>ivy_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/nature/ivy_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>nature</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>ivy_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/nature/ivy_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>nature</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>ivy_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/nature/ivy_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>nature</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>mountain_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/nature/mountain_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>nature</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>mountain_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/nature/mountain_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>nature</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>mountain_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/nature/mountain_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>nature</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>rock_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/nature/rock_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>nature</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>rock_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/nature/rock_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>nature</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>rock_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/nature/rock_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>nature</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tree_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/nature/tree_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>nature</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>props</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>props</Name4>
+			</FolderNames>
+			<Prefab>
+				<Name>banner_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/banner_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>banner_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/banner_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>barrel_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/barrel_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>barrel_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/barrel_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>barrel_broken_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/barrel_broken_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>barrel_broken_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/barrel_broken_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>booth</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/booth.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cage</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/cage.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>candleholder_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/candleholder_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>candleholder_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/candleholder_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cart_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/cart_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>chandelier</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/chandelier.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>chest_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/chest_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>chest_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/chest_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>chimney_kitchen</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/chimney_kitchen.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cloth_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/cloth_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cloth_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/cloth_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cloth_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/cloth_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cloth_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/cloth_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>fireplace</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/fireplace.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_e</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_e.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_f</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_f.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_g</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_g.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_h</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_h.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_i</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_i.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_j</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_j.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>kitchen_prop_k</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/kitchen_prop_k.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>ladder</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/ladder.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>package_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/package_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>package_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/package_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>pottery_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/pottery_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>pottery_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/pottery_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>pottery_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/pottery_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>pottery_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/pottery_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>pottery_e</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/pottery_e.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>pottery_f</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/pottery_f.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>pottery_g</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/pottery_g.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>prop_wood_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/prop_wood_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>prop_wood_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/prop_wood_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>prop_wood_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/prop_wood_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>prop_wood_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/prop_wood_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>prop_wood_e</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/prop_wood_e.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>prop_wood_f</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/prop_wood_f.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>prop_wood_g</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/prop_wood_g.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>prop_wood_h</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/prop_wood_h.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stone_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/stone_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stone_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/stone_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stone_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/stone_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stone_row_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/stone_row_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stone_row_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/stone_row_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>throne</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/throne.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>torture_gear_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/torture_gear_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>torture_gear_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/torture_gear_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>torture_gear_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/torture_gear_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>torture_gear_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/torture_gear_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>torture_gear_e</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/torture_gear_e.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>torture_gear_f</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/torture_gear_f.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>torture_gear_g</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/torture_gear_g.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>torture_gear_h</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/torture_gear_h.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>tower_c_deco_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/tower_c_deco_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wallDeco_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/wallDeco_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wallDeco_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/wallDeco_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wallDeco_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/wallDeco_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>weaponholder</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weaponholder.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wheelbarrow</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/wheelbarrow.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wooden_arcade</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/wooden_arcade.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>woodhut_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/woodhut_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>woodhut_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/woodhut_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>woodhut_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/woodhut_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wood_logs</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/wood_logs.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>props</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>furniture</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>props</Name4>
+				<Name5>furniture</Name5>
+			</FolderNames>
+			<Prefab>
+				<Name>bed_a1</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/bed_a1.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>bed_a2</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/bed_a2.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>bed_a3</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/bed_a3.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>bed_a4</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/bed_a4.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>bench_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/bench_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cabinet_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/cabinet_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cabinet_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/cabinet_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cabinet_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/cabinet_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cabinet_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/cabinet_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>cabinet_e</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/cabinet_e.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>chair_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/chair_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>chair_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/chair_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>chair_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/chair_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>chair_d</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/chair_d.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>chair_e</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/chair_e.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>chair_f</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/chair_f.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>panel</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/panel.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>shelf_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/shelf_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>shelf_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/shelf_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>shelf_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/shelf_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>stool_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/stool_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>table_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/table_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>table_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/table_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>table_round</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/furniture/table_round.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>furniture</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>weapons</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>props</Name4>
+				<Name5>weapons</Name5>
+			</FolderNames>
+			<Prefab>
+				<Name>halberd_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/halberd_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>halberd_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/halberd_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>halberd_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/halberd_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>morningstar_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/morningstar_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>morningstar_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/morningstar_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>morningstar_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/morningstar_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>shield_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/shield_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>shield_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/shield_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>shield_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/shield_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>sword_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/sword_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>sword_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/sword_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>sword_c</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/sword_c.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>sword_sheath</Name>
+				<Path>Assets/External Assets/castle/prefabs/props/weapons/sword_sheath.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>weapons</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>castle_walls</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>castle</Name2>
+				<Name3>prefabs</Name3>
+				<Name4>walls</Name4>
+			</FolderNames>
+			<Prefab>
+				<Name>wall_outer_10m</Name>
+				<Path>Assets/External Assets/castle/prefabs/walls/wall_outer_10m.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>walls</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_outer_10m_angle_a</Name>
+				<Path>Assets/External Assets/castle/prefabs/walls/wall_outer_10m_angle_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>walls</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_outer_10m_angle_b</Name>
+				<Path>Assets/External Assets/castle/prefabs/walls/wall_outer_10m_angle_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>walls</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_outer_10m_down</Name>
+				<Path>Assets/External Assets/castle/prefabs/walls/wall_outer_10m_down.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>walls</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>wall_outer_10m_up</Name>
+				<Path>Assets/External Assets/castle/prefabs/walls/wall_outer_10m_up.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>walls</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>Houses</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>Medieval_Environment</Name2>
+				<Name3>Medieval_Houses_Vol1</Name3>
+				<Name4>Prefabs</Name4>
+				<Name5>Houses</Name5>
+			</FolderNames>
+			<Prefab>
+				<Name>SM_MH_01_House_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_House_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_House_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_House_04</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_04.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_House_05</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_05.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_House_06</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_06.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_House_07</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_07.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_House_08</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_08.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_House_09</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_09.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_House_10</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_10.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_House_11</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/Houses/SM_MH_01_House_11.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Houses</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>Medieval_village_prefabs</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>External Assets</Name1>
+				<Name2>Medieval_Environment</Name2>
+				<Name3>Medieval_Houses_Vol1</Name3>
+				<Name4>Prefabs</Name4>
+			</FolderNames>
+			<Prefab>
+				<Name>SM_MH_01_Dirt_Floor_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Dirt_Floor_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_04</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_04.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Door_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Door_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Half_H_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Half_H_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Half_H_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Half_H_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Half_H_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Half_H_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Half_V_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Half_V_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Indoor_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Indoor_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Roof_L_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Roof_L_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Roof_R_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Roof_R_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Roof_Top_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Roof_Top_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Skylight_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Skylight_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Skylight_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Skylight_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Window_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Window_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Plaster_Wall_Window_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Plaster_Wall_Window_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_Corner_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_Corner_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_End_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_End_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_End_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_End_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_End_Corner_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_End_Corner_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_End_Half_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_End_Half_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_End_Intersection_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_End_Intersection_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_End_Quarter_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_End_Quarter_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_Half_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_Half_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_Intersection_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_Intersection_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_Quarter_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_Quarter_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_Side_L_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_Side_L_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Porch_Roof_Side_R_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Porch_Roof_Side_R_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Corner_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Corner_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_End_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_End_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_End_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_End_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_End_Corner_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_End_Corner_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_End_Half_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_End_Half_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_End_Half_Slope_L_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_End_Half_Slope_L_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_End_Half_Slope_R_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_End_Half_Slope_R_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_End_Intersection_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_End_Intersection_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_End_Quarter_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_End_Quarter_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Half_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Half_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Intersection_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Intersection_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Quarter_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Quarter_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Skylight_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Skylight_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Skylight_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Skylight_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Skylight_Quarter_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Skylight_Quarter_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Top_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Top_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Top_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Top_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Top_Corner_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Top_Corner_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Top_Cross_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Top_Cross_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Top_End_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Top_End_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Top_Half_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Top_Half_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Top_Intersection_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Top_Intersection_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Top_Quarter_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Top_Quarter_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Slate_Roof_Top_Tip_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Slate_Roof_Top_Tip_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Floor_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Floor_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Floor_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Floor_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Floor_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Floor_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Floor_04</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Floor_04.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Foundation_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Foundation_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Foundation_Corner_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Foundation_Corner_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Foundation_Intersection_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Foundation_Intersection_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Foundation_Pillar_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Foundation_Pillar_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Pillar_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Pillar_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Stairs_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Stairs_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Stairs_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Stairs_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Stairs_Base_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Stairs_Base_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Corner_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Corner_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Corner_Universal_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Corner_Universal_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Door_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Door_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Door_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Door_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Half_V_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Half_V_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Half_V_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Half_V_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Intersection_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Intersection_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Roof_L_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Roof_L_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Roof_L_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Roof_L_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Roof_R_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Roof_R_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Roof_R_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Roof_R_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Roof_Top_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Roof_Top_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Roof_Top_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Roof_Top_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Skylight_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Skylight_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Skylight_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Skylight_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Skylight_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Skylight_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Skylight_Window_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Skylight_Window_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Stone_Wall_Window_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Stone_Wall_Window_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_04</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_04.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Door_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Door_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Half_H_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Half_H_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Half_H_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Half_H_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Half_H_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Half_H_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Half_V_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Half_V_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Indoor_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Indoor_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Roof_L_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Roof_L_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Roof_R_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Roof_R_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Roof_Top_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Roof_Top_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Skylight_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Skylight_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Skylight_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Skylight_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Window_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Window_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_01_Wall_Window_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_01_Wall_Window_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_04</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_04.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Door_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Door_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Half_H_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Half_H_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Half_H_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Half_H_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Half_H_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Half_H_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Half_V_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Half_V_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Half_V_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Half_V_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Indoor_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Indoor_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Indoor_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Indoor_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Roof_L_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Roof_L_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Roof_R_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Roof_R_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Roof_Top_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Roof_Top_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Skylight_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Skylight_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Skylight_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Skylight_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Window_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Window_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Window_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Window_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_02_Wall_Window_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_02_Wall_Window_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_03_Wall_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_03_Wall_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_03_Wall_Roof_L_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_03_Wall_Roof_L_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_03_Wall_Roof_R_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_03_Wall_Roof_R_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_03_Wall_Roof_Top_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_03_Wall_Roof_Top_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Door_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Door_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Door_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Door_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Door_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Door_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Floor_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Floor_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Floor_01_Half_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Floor_01_Half_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Floor_01_Half_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Floor_01_Half_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Floor_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Floor_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Floor_02_Half_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Floor_02_Half_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Floor_02_Half_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Floor_02_Half_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Frame_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Frame_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Frame_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Frame_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Frame_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Frame_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Frame_04</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Frame_04.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Frame_Corner_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Frame_Corner_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_GuardRail_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_GuardRail_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_GuardRail_01_Pillar_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_GuardRail_01_Pillar_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_GuardRail_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_GuardRail_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_GuardRail_02_Pillar_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_GuardRail_02_Pillar_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Pillar_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Pillar_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Pillar_01a</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Pillar_01a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Pillar_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Pillar_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Pillar_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Pillar_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Pillar_03a</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Pillar_03a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Pillar_04</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Pillar_04.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Pillar_05</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Pillar_05.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Pillar_06</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Pillar_06.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Pillar_07</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Pillar_07.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Pillar_08</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Pillar_08.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Plank_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Plank_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Plank_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Plank_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Plank_03</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Plank_03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Porch_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Porch_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Porch_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Porch_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Porch_Corner_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Porch_Corner_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Porch_Half_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Porch_Half_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Porch_Intersection_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Porch_Intersection_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Porch_Quarter_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Porch_Quarter_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Stairs_01</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Stairs_01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>SM_MH_01_Wood_Stairs_02</Name>
+				<Path>Assets/External Assets/Medieval_Environment/Medieval_Houses_Vol1/Prefabs/SM_MH_01_Wood_Stairs_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Prefabs</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>Bathroom</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>Prefabs</Name1>
+				<Name2>Modified Prefabs</Name2>
+				<Name3>Bathroom</Name3>
+			</FolderNames>
+			<Prefab>
+				<Name>Floor 1</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/Floor 1.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 2</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/Floor 2.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 3</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/Floor 3.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 4</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/Floor 4.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 5</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/Floor 5.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 6</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/Floor 6.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 7</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/Floor 7.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 8</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/Floor 8.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 9</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/Floor 9.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>New Modular AA 1</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/New Modular AA 1.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>New Modular AA 2</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/New Modular AA 2.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>New Modular AA 3</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/New Modular AA 3.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>New Modular BB</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Bathroom/New Modular BB.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Bathroom</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>Modified Prefabs</Name>
+			<FolderNames>
+				<Name0>Assets</Name0>
+				<Name1>Prefabs</Name1>
+				<Name2>Modified Prefabs</Name2>
+			</FolderNames>
+			<Prefab>
+				<Name>Door</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Door.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 1</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Floor 1.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 2</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Floor 2.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 3</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Floor 3.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 4</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Floor 4.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 5</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Floor 5.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 6</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Floor 6.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 7</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Floor 7.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 8</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Floor 8.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor 9</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Floor 9.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>Floor B</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/Floor B.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>New Modular A 1</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/New Modular A 1.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>New Modular A 2</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/New Modular A 2.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>New Modular A 3</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/New Modular A 3.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>New Modular B</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/New Modular B.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+			<Prefab>
+				<Name>New Modular C</Name>
+				<Path>Assets/Prefabs/Modified Prefabs/New Modular C.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+				<Tag>Modified Prefabs</Tag>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>Book</Name>
+			<Prefab>
+				<Name>Bookshelf_A</Name>
+				<Path>Assets/External Assets/OfficeAndPoliceStation/Prefabs/Props/Furniture/Bookshelf_A.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Book_set_bookshelf_B</Name>
+				<Path>Assets/External Assets/SuburbNeighborhoodHousePack/Prefabs/Props_interior/Book_set_bookshelf_B.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Book_set_bookshelf_A</Name>
+				<Path>Assets/External Assets/SuburbNeighborhoodHousePack/Prefabs/Props_interior/Book_set_bookshelf_A.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Bookshelf</Name>
+				<Path>Assets/External Assets/SuburbNeighborhoodHousePack/Prefabs/Props_interior/Bookshelf.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Bookshelf_B</Name>
+				<Path>Assets/External Assets/OfficeAndPoliceStation/Prefabs/Props/Furniture/Bookshelf_B.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Bookshelf_drawer_A</Name>
+				<Path>Assets/External Assets/OfficeAndPoliceStation/Prefabs/Props/Furniture/Bookshelf_drawer_A.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Bookshelf_drawer_B</Name>
+				<Path>Assets/External Assets/OfficeAndPoliceStation/Prefabs/Props/Furniture/Bookshelf_drawer_B.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Bookshelf_openable</Name>
+				<Path>Assets/External Assets/SuburbNeighborhoodHousePack/Prefabs/Props_interior/Bookshelf_openable.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Bookcase Dirty Variant</Name>
+				<Path>Assets/External Assets/Ultimate Horror Adventure Kit/Prefab/Models Prefabs/Bookcase Dirty Variant.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Bookcase_static</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Bookcase_static.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Bookcase_staticB</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Bookcase_staticB.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookcaseB</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/BookcaseB.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookcaseBrokenC</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/BookcaseBrokenC.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookcaseDoor_L</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/BookcaseDoor_L.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookcaseDoor_R</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/BookcaseDoor_R.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookcaseShelf</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/BookcaseShelf.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookHeap01</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookHeap01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookHeap02</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookHeap02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookHeap03</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookHeap03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookHeap04</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookHeap04.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookHeap05</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookHeap05.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookOpen01</Name>
+				<Path>Assets/External Assets/NOT_Lonely/Object Placement Tool/DemoScene/Prefabs/BookOpen01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookOpen02</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookOpen02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookOpen03</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookOpen03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookOpen04</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookOpen04.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>books Variant</Name>
+				<Path>Assets/External Assets/Ultimate Horror Adventure Kit/Prefab/Models Prefabs/books Variant.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Books_02</Name>
+				<Path>Assets/External Assets/Abandoned_Psychiatric_Hospitals/Prefabs/Props/Directors_Office/Books_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Books_08</Name>
+				<Path>Assets/External Assets/Abandoned_Psychiatric_Hospitals/Prefabs/Props/Directors_Office/Books_08.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Books_09</Name>
+				<Path>Assets/External Assets/Abandoned_Psychiatric_Hospitals/Prefabs/Props/Directors_Office/Books_09.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Books_10</Name>
+				<Path>Assets/External Assets/Abandoned_Psychiatric_Hospitals/Prefabs/Props/Directors_Office/Books_10.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Books_B</Name>
+				<Path>Assets/External Assets/OfficeAndPoliceStation/Prefabs/Props/Books_B.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Books_C</Name>
+				<Path>Assets/External Assets/OfficeAndPoliceStation/Prefabs/Props/Books_C.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Books_F</Name>
+				<Path>Assets/External Assets/OfficeAndPoliceStation/Prefabs/Props/Books_F.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookSet01</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookSet01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookSet02</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookSet02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookSet03</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookSet03.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookSet14</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookSet14.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BooksHeap_combined02</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/ObjectPlacementTool_combined/BooksHeap_combined02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BooksHeap_combined01</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/ObjectPlacementTool_combined/BooksHeap_combined01.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>BookStack05</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/Books/BookStack05.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Devil's_Book_02</Name>
+				<Path>Assets/External Assets/Abandoned_Psychiatric_Hospitals/Prefabs/Props/Devil's_Book_02.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>TableFvases Variant</Name>
+				<Path>Assets/External Assets/Ultimate Horror Adventure Kit/Prefab/Models Prefabs/TableFvases Variant.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>table_6</Name>
+				<Path>Assets/External Assets/Big_laboratory/models/props/L_props/prefab/table_6.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Sidetable_small</Name>
+				<Path>Assets/External Assets/SuburbNeighborhoodHousePack/Prefabs/Props_interior/Sidetable_small.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>LibraryTable</Name>
+				<Path>Assets/External Assets/NOT_Lonely/HQ_AbandonedSchool/Prefabs/LibraryTable.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>desk_a</Name>
+				<Path>Assets/External Assets/HQ Modular Interior Mansion/Prefabs/desk_a.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Desk Variant</Name>
+				<Path>Assets/External Assets/Ultimate Horror Adventure Kit/Prefab/Models Prefabs/Desk Variant.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Desk 1 Variant</Name>
+				<Path>Assets/External Assets/Ultimate Horror Adventure Kit/Prefab/Models Prefabs/Desk 1 Variant.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>carpet_b</Name>
+				<Path>Assets/External Assets/HQ Modular Interior Mansion/Prefabs/carpet_b.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+		</Category>
+	</PrefabCategories>
+		<PrefabScrollViewLookAndFeel>
+			<NumPrefabsPerRow>5</NumPrefabsPerRow>
+			<PrefabPreviewScale>1</PrefabPreviewScale>
+			<PrefabScrollViewHeight>200</PrefabScrollViewHeight>
+			<ActivePrefabTint>0,639,0,909,1,1</ActivePrefabTint>
+			<ShowPrefabNames>False</ShowPrefabNames>
+			<PrefabNameLabelColor>0,0,0,1</PrefabNameLabelColor>
+		</PrefabScrollViewLookAndFeel>
+</PrefabConfig>
